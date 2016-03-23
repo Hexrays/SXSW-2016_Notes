@@ -4,7 +4,7 @@
 
 Interactions between connected objects and advertising
 
-KIIP
+[KIIP](http://www.kiip.me/)
 
 Why do moments matter?
 
