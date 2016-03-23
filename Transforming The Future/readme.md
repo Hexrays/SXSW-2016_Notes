@@ -21,7 +21,7 @@ redeem rewards, respecting the consumer
 Gaming is obvious for moments (achievements)
 
 ### Moments
-* fittness
+* fitness
 * recipe
 * productivity
 
@@ -45,7 +45,7 @@ the need to invent new permissions
 * gifting
 * thanking
 
-1. Every screen should be seemless
+1. Every screen should be seamless
     * the experience still stays in the phone
     * connector of all devices
 
@@ -59,7 +59,7 @@ the need to invent new permissions
 
 For example, rewards based on a toothbrush, Oral B
 
-4. Predicitve Productivity / AI
+4. Predictive Productivity / AI
     * Sounds like science fiction but Advertising can be driving this.
 
 5.
@@ -71,14 +71,14 @@ For example, rewards based on a toothbrush, Oral B
 
 ### Connected Generation
 Don't need to distinguish between age groups
-developing countries leapfroggin old technologies
+developing countries leapfrogging old technologies
 hyper-adoption (sign of the connected generation)
 real-world impact, health - education
-rewards for a language learning app
+rewards for a language learning App
 
 Add Value
 Phone as a centerpiece of user's profile.
 
 What moment will you add value in?
 
-Don't turn triggers into an advertising sesspool.
+Don't turn triggers into an advertising cesspool.

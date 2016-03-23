@@ -48,14 +48,14 @@ Holy shit
 
 Neuroscientist and geneticist
 
-neurons communicate through synapases
+neurons communicate through synapses
 traverse chemicals form the basics of how memories work
 
-epigenetics- above the dna, what is turned on and off
+epigenetics- above the DNA, what is turned on and off
 
 enhance protein expression
 
 what does the future hold?
 invented by creativity
 
-Darpa employees are only allowed to stay for 2 to 4 years.
+DARPA employees are only allowed to stay for 2 to 4 years.

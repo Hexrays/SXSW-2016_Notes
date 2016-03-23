@@ -17,12 +17,12 @@ Robot / Robotic element
 Her (movie) - "disembodied intelligence"
 
 Leveraging character animators to make the robot more expressive so people can understand what they are doing
-"percieved competence"
+"perceived competence"
 reactions to success or failure
 gets lots of forgiveness from people
 robots take time to learn
 
-disney, with limied technology makes things come to life
+Disney, with limited technology makes things come to life
 
 more important to complete the right meta cognition than complete the task
 
@@ -49,5 +49,5 @@ See things more along the lines of Futurama, robots as equals, another species.
 
 creating new social norms
 
-Drive to developement/ Engineering before testing = Bad
+Drive to development/ Engineering before testing = Bad
 Mandate the testing

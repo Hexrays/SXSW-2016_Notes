@@ -26,7 +26,7 @@ Make the mundane memorable
 
 Surprise
 
-Creat an experience that focuses on parts of the brain that delight
+Create an experience that focuses on parts of the brain that delight
 
 Transcend a mundane life **bold assumption**
 
@@ -39,12 +39,12 @@ Parents tap into inner child (safe, reassured)
 Put down guard, sense that magic does exist
 
 Soulcycle
-fittness can be a joyful experience
+fitness can be a joyful experience
 community, experience, fun, tribal, not a chore, workout that doesn't feel like work
 
 Safety- core philosophy of Disney
 Control the environment
-work on a subconsious level
+work on a subconscious level
 **interesting:** A water fountain makes you not worry about being dehydrated
 
 Happiness is not in the moment
@@ -57,17 +57,17 @@ Memory leads to happiness *in many cases you get the facts wrong*
 
 **Leaving Disneyland** if that is not a good experience it flavors the whole day.
 
-> "The most important parts of the song are the begining and the end."
+> "The most important parts of the song are the beginning and the end."
 - Pete Townsend
 
-Soulcycle class ending/begining are about bumping into people and creating a community. Purposefully
+Soulcycle class ending/beginning are about bumping into people and creating a community. Purposefully
 
 Portals - entrance to Disneyland
 
-Disney- "even the stores don't compete with eachother"
+Disney- "even the stores don't compete with each other"
 
 Example:
-Checking into a hotel is a mundane experience. A hotel in chicago has an array of fancy pens to choose from to sign in. In line people start to discuss which pen they're going to choose.
+Checking into a hotel is a mundane experience. A hotel in Chicago has an array of fancy pens to choose from to sign in. In line people start to discuss which pen they're going to choose.
 
 Materials thought through
 
@@ -75,9 +75,9 @@ When you touch something that's really brass and see something fake and out of r
 
 Relationship matters
 
-Surprise and delight, dreamweaver, walk away with a memory
+Surprise and delight, dream weaver, walk away with a memory
 
-Contrast- once it becomes the norm it no longer stand sout
+Contrast- once it becomes the norm it no longer stands out
 
 no other place where you are going to have that experience
 
@@ -87,7 +87,7 @@ Does happiness belong in all situations
 
 Re-wire memory
 
-Religous groups are losing ground to fittness
+Religious groups are losing ground to fitness
 
 DMV needs hospitality training. Shuffling from line to line, why can't it all be done in one line? line experience
 

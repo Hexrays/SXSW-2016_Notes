@@ -2,5 +2,5 @@
 
 ### Saturday, March 12th 9:30am
 
-"The internet is making everone a Millennial" Abbi
+"The internet is making everyone a Millennial" Abbi
 echoing the sentiment for Brian Wong and the "connected generation."

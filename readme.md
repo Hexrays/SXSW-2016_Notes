@@ -1,1 +1,1 @@
-These are my notes from SXSW Interactive 2016.
+These are some select notes from SXSW Interactive 2016.

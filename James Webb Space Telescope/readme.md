@@ -14,7 +14,7 @@ is there another earth?
 
 The universe was formed 13.8 Billion years ago. Evenly distributed. Mostly Dark matter.
 
-Key Goals: To findo out more about the universe.
+Key Goals: To find out more about the universe.
 
 ** Start with a description of the Hubble, it's goals, it's limitations **
 
@@ -22,7 +22,7 @@ Hubble extreme deep field
 
 Universe is always expanding in every direction.
 
-lightwaves expand as they travel and get redder.
+light waves expand as they travel and get redder.
 
 Designed to detect and study the first generation of galaxies in the universe.
 
@@ -30,7 +30,7 @@ Insane
 
 The prescription of the mirrors
 
-the hubble orbits the earth
+the Hubble orbits the earth
 JWST will [orbit](http://jwst.nasa.gov/orbit.html) the sun approx 1 million miles from earth
 
 Can look back to 400 million years after the big bang
@@ -39,11 +39,11 @@ See things never seen before
 
 Red Shift
 
-near infrared installed on hubble
+near infrared installed on Hubble
 
-"pillars of creation" google it
+"pillars of creation" Google it
 
-launches october 2018
+launches October 2018
 
 1 month to get to that part of space
 
