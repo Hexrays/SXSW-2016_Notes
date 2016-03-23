@@ -142,9 +142,11 @@ generic | personal
 
 It will be difficult to believe
 
-Believe in the impossible more often
+We have to believe in the impossible more often
 
 You have to invent the future.
+
+**The greatest products of the next 20 years have not been invented yet.**
 
 based on creativity
 
